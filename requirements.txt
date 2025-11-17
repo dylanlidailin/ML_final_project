@@ -1,0 +1,6 @@
+# I need to use SVM, logistic regression, decision tree, random forest, and KNN for classification. Import all the libaries in the requirements.txt file
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
